@@ -52,8 +52,8 @@ const questions= [
         answers : [
             
                 {text: "pluto",correct:"false"},
-                {text: "earth",correct:"true"},
-                {text: "jupitar",correct:"false"},
+                {text: "earth",correct:"false"},
+                {text: "jupitar",correct:"true"},
                 {text: "saturn",correct:"false"},
 
             
