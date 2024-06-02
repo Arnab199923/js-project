@@ -34,7 +34,32 @@ const questions= [
 
             
         ]
+    },
+    {
+        question: " What is the capital city of France?",
+        answers : [
+            
+                {text: "delhi",correct:"false"},
+                {text: "paris",correct:"true"},
+                {text: "hong kong",correct:"false"},
+                {text: "london",correct:"false"},
+
+            
+        ]
+    },
+    {
+        question: " What is the largest planet in our Solar System",
+        answers : [
+            
+                {text: "pluto",correct:"false"},
+                {text: "earth",correct:"true"},
+                {text: "jupitar",correct:"false"},
+                {text: "saturn",correct:"false"},
+
+            
+        ]
     }
+  
 ];
 
 const questionElement = document.getElementById("question");
